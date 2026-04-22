@@ -1,0 +1,1 @@
+# s3-glue-lambda-trigger-project
